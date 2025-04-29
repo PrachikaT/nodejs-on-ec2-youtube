@@ -1,6 +1,6 @@
 # Node public repo Hello World subscribe to my channel , thanks you
 
-Simple node.js app that servers  "Welcome to PrachiT  & Credit with Thanks to - A Monk in Cloud"
+Simple node.js app that servers  "Welcome to PrachiT  & Credit with Thanks to - A Monk in Cloud Provider"
 
 Great for testing simple deployments on Cloud
 
